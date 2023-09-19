@@ -9,7 +9,7 @@ Como misión se plantea “Incrementar la producción agrícola con eficiencia, 
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-Mi nombre es Jorge Enrique Gonzales Carrión tengo 19 años de edad y curso el sexto ciclo de la carrera Ingeniería de Software. Me considero una persona con sentido de responsabilidad y la suficiente capacidad de trabajar en equipo aportando ideas innovadoras. Además, en cualidades me considero asertivo y colaborativo, puntos que pueden mejorar el proceso de elaboración de los distintos trabajos del curso. Finalmente, poseo conocimientos de programación que brindaron los ciclos anteriores al presente.
+Mi nombre es Jorge Enrique Gonzales Carrión tengo 19 años de edad y curso el sexto ciclo de la carrera Ingeniería de Software. Me considero una persona con sentido de responsabilidad y la suficiente capacidad de trabajar en equipo aportando ideas innovadoras. Además, en cualidades me considero asertivo y colaborativo, puntos que pueden mejorar el proceso de elaboasdración de los distintos trabajos del curso. Finalmente, poseo conocimientos de programación que brindaron los ciclos anteriores al presente.
 
 ![jroge](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/f2ae0bea-109a-48cb-abd8-47db542006c3)
 
